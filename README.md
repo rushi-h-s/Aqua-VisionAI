@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Having issues? 
 
 - 💬 **GitHub Issues**: [Open an issue](https://github.com/rushi-h-s/Aqua-VisionAI/issues)
-- 📧 **Email Support**: your.email@example.com
+- 📧 **Email Support**: rushimv01@gmail.com
 - 📚 **Documentation**: Check the [Wiki](https://github.com/rushi-h-s/Aqua-VisionAI/wiki)
 
 ---
